@@ -1,0 +1,17 @@
+#countdown{
+     color:rgb(69, 136, 230) ;
+     font-size: 60px;
+     position: absolute;
+     left:340px;
+      
+
+}
+
+
+img{
+    height: 500px;
+    width: 700px;
+    position: absolute;
+    left:340px;
+    top: 90px;
+}
